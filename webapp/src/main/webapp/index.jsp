@@ -32,6 +32,6 @@
   </div>
 
    <h1> Thankyou, Happy Learning </h1>
-
+   <h1> You have successfully completed your registration </h1>
   
 </form>
